@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: outline for Gherkin
+about: outline for user story
 title: ''
 labels: ''
 assignees: ''
